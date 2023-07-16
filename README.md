@@ -6,12 +6,12 @@ I'm currently a student from HCMUS. My major is Information Technology, but in a
   <img src="/icon/eye.svg" alt="Facebook">
 </a>
 <style>
-  .social-icon {
+  social-icon {
     display: inline-block;
     transition: transform 0.3s ease;
   }
   
-  .social-icon:hover {
+  social-icon:hover {
     transform: scale(1.2);
   }
 </style>
