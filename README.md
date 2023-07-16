@@ -3,5 +3,5 @@ I'm currently a student from HCMUS. My major is Information Technology, but in a
 
 ## Contact
 <a href="https://www.facebook.com/nhung1899/">
-  <img src=".icon/eye.svg">
+  <img src="/icon/eye.svg">
 </a>
